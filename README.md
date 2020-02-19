@@ -34,3 +34,18 @@ If interested installing the desired set of linux flavour then make sure to down
 Below link can be used as a reference to complete the setup.
 
 https://www.tutorialspoint.com/hive/hive_installation.htm
+
+## Working with hive
+
+Initially get the data on which you are interested to work on performing hive mapreduce operations. Then consider the type of data available then look for the delimiters like '\t',',' etc.. in th data to store them into a table. 
+
+- Command to create a table
+create table datastore (store String,category String,cost double,paymenttype String)ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE;
+- Loading of data into table
+LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/d.txt' OVERWRITE INTO TABLE datastore;
+- verifying the successful loading of data into the table
+select * from datastore;
+- Performing the aggregate function using hive on the loaded data
+select category, max(cost) from demo.de group by category;
+
+
