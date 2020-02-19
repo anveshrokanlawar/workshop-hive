@@ -1,4 +1,23 @@
-# workshop-hive
+# Practice with Hive
+- 44517 - 01
+- 02 - Practice with Hive
+
+<br/>
+
+### Team Members:
+1. Rajender Ravi Varma Devulapally
+1. Leela Krishna Kosaraju
+1. Anvesh Rokanlawar
+1. Akhil Kumar Reddy Busireddy
+
+<br/>
+
+### Link to this Repo:
+
+https://github.com/anveshrokanlawar/workshop-hive
+
+<br/>
+
 
 Before getting started to work on hive get the setup ready by installing the flavoured linux OS OVM file from cloudera.
 
