@@ -1,0 +1,50 @@
+San Jose,Men's Clothing,214.05,Amex
+Fort Worth,Women's Clothing,153.57,Visa
+San Diego,Music,66.08,Cash
+Pittsburgh,Pet Supplies,493.51,Discover
+Omaha,Children's Clothing,235.63,MasterCard
+Stockton,Men's Clothing,247.18,MasterCard
+Austin,Cameras,379.6,Visa
+New York,Consumer Electronics,296.8,Cash
+Corpus Christi,Toys,25.38,Discover
+Fort Worth,Toys,213.88,Visa
+Las Vegas,Video Games,53.26,Visa
+Newark,Video Games,39.75,Cash
+Austin,Cameras,469.63,MasterCard
+Greensboro,DVDs,290.82,MasterCard
+San Francisco,Music,260.6,Discover
+Lincoln,Garden,136.9,Visa
+Buffalo,Women's Clothing,483.82,Visa
+San Jose,Women's Clothing,215.82,Cash
+Boston,Cameras,418.94,Amex
+Houston,Baby,309.16,Visa
+Las Vegas,Books,93.39,Visa
+Virginia Beach,Children's Clothing,376.11,Amex
+Riverside,Consumer Electronics,252.88,Cash
+Tulsa,Baby,205.06,Visa
+Reno,Crafts,88.25,Visa
+Chicago,Books,31.08,Cash
+Fort Wayne,Men's Clothing,370.55,Amex
+San Bernardino,Consumer Electronics,170.2,Cash
+Madison,Men's Clothing,16.78,Visa
+Austin,Sporting Goods,327.75,Discover
+Portland,CDs,108.69,Amex
+Riverside,Sporting Goods,15.41,Discover
+Reno,Toys,80.46,Visa
+Anchorage,Music,298.86,MasterCard
+Pittsburgh,Sporting Goods,475.26,Amex
+Spokane,Garden,3.85,Amex
+Spokane,Computers,287.65,MasterCard
+Fresno,CDs,466.64,MasterCard
+Omaha,Baby,255.68,MasterCard
+Anchorage,DVDs,6.38,Amex
+Aurora,Consumer Electronics,117.81,MasterCard
+Philadelphia,DVDs,351.31,Cash
+Fremont,Baby,222.61,Cash
+Anchorage,Crafts,22.36,Amex
+Norfolk,Women's Clothing,189.01,Amex
+Chandler,Books,414.08,Cash
+Minneapolis,Computers,182.05,Visa
+Honolulu,Cameras,345.18,Discover
+Indianapolis,Books,135.96,Discover
+Chandler,Books,344.09,Discover
