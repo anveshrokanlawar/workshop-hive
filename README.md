@@ -53,6 +53,6 @@ Initially get the data on which you are interested to work on performing hive ma
     
 - Performing the aggregate function using hive on the loaded data.
 
-    select category, max(cost) from demo.de group by category;
+    select category, max(cost) from datastore group by category;
 
 
